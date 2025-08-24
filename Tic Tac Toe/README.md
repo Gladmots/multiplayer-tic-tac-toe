@@ -2,6 +2,9 @@
 
 This is a multiplayer implementation of the classic Tic Tac Toe game using Python, Pygame, and socket programming for networking.
 
+![Stock forecasting screenshot 2](https://raw.githubusercontent.com/Gladmots/stock-market-forecasting-dl/main/stock_market_forecasting/Screenshot%202025-08-24%20160629.png)
+
+
 ## Running the Game
 
 To run the multiplayer Tic Tac Toe game, you need to follow these steps:
