@@ -2,7 +2,7 @@
 
 This is a multiplayer implementation of the classic Tic Tac Toe game using Python, Pygame, and socket programming for networking.
 
-![Stock forecasting screenshot 2]([[https://raw.githubusercontent.com/Gladmots/stock-market-forecasting-dl/main/stock_market_forecasting/Screenshot%202025-08-24%20160629.png](https://github.com/Gladmots/multiplayer-tic-tac-toe/blob/main/Tic%20Tac%20Toe/Screenshot%202025-08-24%20190505.png](https://github.com/Gladmots/multiplayer-tic-tac-toe/blob/main/Tic%20Tac%20Toe/Screenshot%202025-08-24%20190505.png))
+<img src="https://raw.githubusercontent.com/Gladmots/multiplayer-tic-tac-toe/main/Tic%20Tac%20Toe/Screenshot%202025-08-24%20190505.png" alt="Multiplayer Tic-Tac-Toe Screenshot" width="700">
 
 ## Running the Game
 
